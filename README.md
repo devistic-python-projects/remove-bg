@@ -1,4 +1,4 @@
-#Background Removal in Python
+Background Removal in Python
 ============================
 
 ![Python Version](https://img.shields.io/badge/Python-3.11+%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)

@@ -8,7 +8,7 @@ This Python script removes the background from an image using the `rembg` librar
 How to Use
 ----------
 
-1.  **Prerequisites:** Make sure you have Python 3.9 or higher installed.
+1.  **Prerequisites:** Make sure you have Python 3.11 or higher installed.
 2.  **Installation:** Install the required packages using `pip`:
 
     pip install rembg pillow
